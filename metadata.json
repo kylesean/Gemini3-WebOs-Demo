@@ -1,0 +1,7 @@
+{
+  "name": "Winnux OS",
+  "description": "A web-based operating system simulation blending Windows 11 aesthetics with Linux functionality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
